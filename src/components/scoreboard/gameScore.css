@@ -1,0 +1,8 @@
+.gameScore {
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+    float:left;
+    display:block;
+    background: #D3D3D3;
+}
